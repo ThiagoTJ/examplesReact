@@ -14,5 +14,5 @@ npm run dev
 ```
 or
 ```js
-yarnn dev
+yarn dev
 ``````
